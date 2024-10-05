@@ -100,28 +100,54 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 > * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
 
-**Fundamentais**
-1) Motoristas
-2) Vendedor
+## Fundamentais:
+>1) Motoristas
+>2) Vendedor
 
-**Importantes**
-1) Governo
-2) Mecânicos
-3) Moradores de centros urbanos
-4) Empresas de Energia
-5) Concorrentes
-6) Postos de gasolina
+## Importantes:
+>1) Governo
+>2) Mecânicos
+>3) Moradores de centros urbanos
+>4) Empresas de Energia
+>5) Concorrentes
+>6) Postos de gasolina
 
-**Influenciadoras**
-1)Instituições ambientais
+## Influenciadoras:
+>-Instituições ambientais
 
 > * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
+
+**Por que você optou pelo carro eletrico ?**
+>É uma vantagem pois utilizo muito o carro, e com isso chega a ser mais viável para mim, fora que ele é econômico, comparado ao combustão.
+
+**Como é manter um carro eletrico?**
+>É tranquilo, eu recarrego ele em casa e o custo de manutenção dele é bem mais acessível que um carro normal, e também só utilizo ele para ir a faculdade e trabalhar.
+
+**Quais as principais dificuldades de manter um carro a combustão?**
+>Gasolina muito cara, manutenção também vem se tornando uma dor de cabeça pelo preço das peças e olha que meu carro é mais velho.
+
+**Quais motivos para manter um carro a combustão e não trocar para um elétrico?**
+>Muito caro, e para ser sincera também não tenho muito conhecimento sobre eles, além de estar acostumada com carro a combustão desde sempre.
+
+**Quais as vantagens de ter um carro elétrico?**
+>Ah, cara, tem várias vantagens! Primeiro, é um baita benefício para o meio ambiente porque não solta poluição. Além disso, você economiza pra caramba com manutenção, porque não precisa trocar óleo e tem menos peças móveis. E a carga elétrica é muito mais barata do que abastecer com gasolina. E não posso esquecer, os carros elétricos geralmente têm tecnologia de ponta, com sistemas legais e uma aceleração super rápida e suave.
+
+**Quais as vantagens em ter um carro elétrico?**
+>Algumas vantagens que existem é a economia,que geralmente sai mais barata que a gasolina,além disso,emitem zero poluentes,além de operarem em forma silenciosa,sem emissão de ruídos.
+
+**O que faz as pessoas terem receio de comprar um carro elétrico?**
+>Então, o maior medo é sobre a autonomia, tipo, quantos quilômetros o carro consegue rodar com uma carga. A galera também fica preocupada com o preço inicial, que pode ser mais alto do que um carro a gasolina, mas com o tempo você economiza com manutenção e combustível. E tem a questão da infraestrutura de carregamento, especialmente se você viaja muito. Em Belo Horizonte a rede de carregamento tá crescendo, mas ainda não é tão grande quanto em outros lugares.
+
+**Quais as preocupações dos clientes em obter um carro elétrico?**
+>A principal preocupação dos consumidores em adquirir este veículo é a infraestrutura do local onde mora,além do receio da durabilidade de suas baterias.E também de uma futura desvalorização.
+
+> * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
+
 
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
 > Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
-> * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
 > * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
 
 ## Etapa de Definição

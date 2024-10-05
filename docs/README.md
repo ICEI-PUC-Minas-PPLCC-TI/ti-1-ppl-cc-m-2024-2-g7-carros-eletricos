@@ -173,39 +173,26 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID     | Descrição do Requisito                                   | Prioridade |
 | ------ | ---------------------------------------------------------- | ---------- |
-| RF-001 | O site deve mostrar notícias e informações a respeito dos carros elétricos | ALTA       |
-| RF-002 | O site deve conter comparativos entre carros a combustão e carros elétricos | MÉDIA     |
-| RF-003 | A persona pode consultar através do sistema um mapa de carregadores e mecânicas especializadas | ALTA       |
+| RF-001 | O site deve mostrar notícias e informações a respeito dos carros elétricos | MÉDIA       |
+| RF-002 | O site deve conter comparativos entre carros a combustão e carros elétricos | ALTA     |
+| RF-003 | A persona pode consultar através do sistema um mapa de carregadores e mecânicas especializadas | MÉDIA       |
 | RF-004 | O site deve ter uma tabela de preços e um ranking dos melhores carros baseados no orçamento da persona. | ALTA       |
-| RF-005 | O site deve oferecer um simulador onde o usuário pode inserir a quilometragem diária para estimar o tempo e custo de recarga dos carros. | ALTA       |
+| RF-005 | O site deve oferecer um simulador onde o usuário pode inserir a quilometragem diária para estimar o tempo e custo de recarga dos carros. | BAIXA       |
 | RF-006 | O site deve conter uma seção com informações sobre o impacto positivo dos carros elétricos no meio ambiente, incluindo emissões de CO2 e redução de poluição.| ALTA       |
-| RF-007 | O site deve incluir depoimentos e vídeos de proprietários de carros elétricos falando sobre suas experiências, destacando as vantagens e desafios.| ALTA       |
-| RF-008 | O site deve exibir uma galeria simples com imagens de diferentes modelos de carros elétricos. | ALTA       |
+| RF-007 | O site deve incluir depoimentos e vídeos de proprietários de carros elétricos falando sobre suas experiências, destacando as vantagens e desafios.| MÉDIA       |
+| RF-008 | O site deve exibir uma galeria simples com imagens de diferentes modelos de carros elétricos. | MÉDIA       |
 | RF-009 | O site deve ter um menu de navegação no topo para acessar as diferentes seções, como "Modelos", "Comparador", "FAQ", e "Contato". | ALTA       |
-| RF-0010 | O site deve conter uma lista de perguntas e respostas frequentes sobre carros elétricos, com links clicáveis para expandir as respostas. | ALTA  |
+| RF-0010 | O site deve conter uma lista de perguntas e respostas frequentes sobre carros elétricos, com links clicáveis para expandir as respostas. | MÉDIA  |
 
 ### Requisitos não Funcionais
 
 | ID      | Descrição do Requisito                                                              | Prioridade |
 | ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo para rodar em um dispositivos móvel ⚠️ EXEMPLO ⚠️ | MÉDIA     |
-| RNF-002 | Deve processar requisições do usuário em no máximo 3s ⚠️ EXEMPLO ⚠️          | BAIXA      |
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Os requisitos de um projeto são classificados em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.
->
-> **Orientações**:
->
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+| RNF-001 | O site deve ser totalmente responsivo, adaptando-se a diferentes tamanhos de tela (smartphones, tablets, desktops) com uma experiência de navegação fluida. | ALTA     |
+| RNF-002 | O site deve ser fácil de navegar, com menus intuitivos e estrutura clara de informações.| ALTA      |
+| RNF-003 | O site deve ser leve, com tempo de carregamento rápido. | MÉDIA     |
+| RNF-004 | O site deverá ser publicado via repl.it e github.| ALTA     |
+| RNF-005 | O site deve funcionar corretamente nos navegadores mais comuns, como Google Chrome, Mozilla Firefox e Microsoft Edge. | ALTA     |
 
 ## Projeto de Interface
 

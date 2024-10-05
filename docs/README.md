@@ -2,11 +2,11 @@
 
 Informações básicas do projeto.
 
-* **Projeto:** [NOME DO PROJETO]
-* **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
+* **Projeto:** 
+* **Repositório GitHub:** https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos)
 * **Membros da equipe:**
 
-  * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
+  * https://github.com/Matheus-026)
   * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
   * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
 
@@ -28,7 +28,9 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Problema
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+A falta de incentivo a carros elétricos é um problema complexo que envolve custos elevados, infraestrutura inadequada e percepções errôneas dos consumidores. O preço inicial desses veículos é geralmente superior ao dos carros a combustão, desestimulando muitos compradores, e a escassez de pontos de carregamento, juntamente com o tempo necessário para recarregá-los, agrava a situação.
+
+Além disso, os incentivos fiscais muitas vezes são limitados e podem ser eliminados por mudanças políticas, criando incerteza. A resistência da indústria automotiva tradicional, preocupações ambientais relacionadas ao ciclo de vida das baterias e desafios tecnológicos, como a autonomia limitada, também são barreiras significativas. Para aumentar a adoção de carros elétricos, é fundamental promover uma abordagem coordenada que inclua incentivos fiscais, expansão da infraestrutura de carregamento, campanhas de conscientização e parcerias entre governo e setor privado.
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
@@ -42,7 +44,8 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Objetivos
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+Nosso objetivo é fazer um aplicativo onde proporcionamos aos usuários informações sobre as diferenças entre um carro a combustão e um elétrico, informações sobre carros elétricos, autonomia e postos de carregamento. Queremos deixar o aplicativo com interface intuitiva para facilitar o uso do usuário.
+ 
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
@@ -54,7 +57,9 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Justificativa
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+A criação de um aplicativo que oferece informações sobre as diferenças entre carros a combustão e elétricos, além de dados sobre autonomia e pontos de carregamento, é justificada pela necessidade de promover a adoção de veículos elétricos em um contexto de crescente preocupação ambiental. A desinformação sobre os benefícios dos carros elétricos pode desencorajar potenciais usuários, e nosso aplicativo visa desmistificar esses conceitos, aumentando a conscientização sobre suas vantagens em termos de eficiência e impacto ambiental.
+
+A interface intuitiva é fundamental para garantir que usuários de diferentes perfis possam navegar facilmente, melhorando a experiência e facilitando o acesso a informações essenciais. A capacidade de consultar dados sobre autonomia e localizar postos de carregamento em tempo real ajuda a eliminar preocupações sobre a infraestrutura disponível. Assim, nosso aplicativo educa e empodera os usuários, incentivando uma mudança positiva em direção a uma mobilidade mais sustentável, contribuindo para a redução das emissões de carbono e melhorando a qualidade de vida.
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
@@ -68,7 +73,7 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Público-Alvo
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+O público-alvo para carros elétricos é diversificado e inclui jovens adultos, profissionais urbanos, famílias, aventureiros e entusiastas de tecnologia, empresas e frotas comerciais, consumidores conscientes ambientalmente e consumidores com renda alta. Os jovens adultos, entre 18 e 35 anos, valorizam inovação e sustentabilidade, utilizando frequentemente as redes sociais para se informar sobre novos produtos. Profissionais urbanos buscam eficiência em seus deslocamentos diários, atraídos pela economia de combustível e pelas vantagens de estacionamento. As famílias, preocupadas com segurança e conforto, veem nos carros elétricos uma opção econômica e sustentável. As empresas, por sua vez, buscam reduzir custos operacionais e melhorar a imagem pública por meio de frotas elétricas. Consumidores conscientes do meio ambiente, de diversas faixas etárias, desejam contribuir para a redução da poluição, enquanto os consumidores de renda alta são atraídos pela tecnologia de ponta e pelo status associado a veículos elétricos. À medida que a tecnologia avança e a infraestrutura de recarga se expande, esse público-alvo pode se diversificar ainda mais.
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >

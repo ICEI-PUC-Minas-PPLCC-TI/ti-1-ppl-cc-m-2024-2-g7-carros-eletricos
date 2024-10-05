@@ -182,22 +182,17 @@ mecânicas especializadas | ALTA       |
 | RF-004 | O site deve ter uma tabela de preços e um ranking dos melhores carros 
 baseados no orçamento da persona. | ALTA       |
 | RF-005 | O site deve oferecer um simulador onde o usuário pode inserir a 
-quilometragem diária para estimar o tempo e custo de recarga dos carros.
- | ALTA       |
+quilometragem diária para estimar o tempo e custo de recarga dos carros. | ALTA       |
 | RF-006 | O site deve conter uma seção com informações sobre o impacto positivo dos 
 carros elétricos no meio ambiente, incluindo emissões de CO2 e redução de 
-poluição.
- | ALTA       |
+poluição.| ALTA       |
 | RF-007 | O site deve incluir depoimentos e vídeos de proprietários de carros 
 elétricos falando sobre suas experiências, destacando as vantagens e 
-desafios.
- | ALTA       |
+desafios.| ALTA       |
 | RF-008 | O site deve exibir uma galeria simples com imagens de diferentes modelos 
-de carros elétricos.
- | ALTA       |
+de carros elétricos. | ALTA       |
 | RF-009 | O site deve ter um menu de navegação no topo para acessar as diferentes 
-seções, como "Modelos", "Comparador", "FAQ", e "Contato".
- | ALTA       |
+seções, como "Modelos", "Comparador", "FAQ", e "Contato". | ALTA       |
 | RF-0010 | O site deve conter uma lista de perguntas e respostas frequentes sobre 
 carros elétricos, com links clicáveis para expandir as respostas. | ALTA       |
 

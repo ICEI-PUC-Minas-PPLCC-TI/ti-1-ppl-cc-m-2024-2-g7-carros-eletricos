@@ -108,13 +108,13 @@ A documentação do projeto é estruturada da seguinte forma:
 >Sobre o alto valor dos carros elétricos porém sobre o quanto um carro elétrico facilita a vida após a aquisição.
 A falta de conhecimento sobre os carros elétricos e o costume estabelecido dos carros a combustão.
 
-**Principais temas ou aprendizados que surgiram desta entrevista**
+**Principais temas ou aprendizados que surgiram desta entrevista.**
 >Sobre como é difícil confiar e adquirir um produto novo, em que se gerou pouco conhecimento nas pessoas.
 
-**Aspectos que importaram mais para os participantes**
+**Aspectos que importaram mais para os participantes.**
 >Valor, autonomia, nível de capital para manter os carros.
 
-**Novos tópicos ou questões para explorar no futuro**
+**Novos tópicos ou questões para explorar no futuro.**
 >Como podemos passar as principais informações e conhecimento sobre os carros elétricos para o máximo de pessoas possíveis. Sobre quais vantagens "incomuns" têm em adquirir um carro elétrico.
 
 ## Etapa de Definição

@@ -30,63 +30,22 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 >A falta de incentivo a carros elétricos é um problema complexo que envolve custos elevados, infraestrutura inadequada e percepções errôneas dos consumidores. O preço inicial desses veículos é geralmente superior ao dos carros a combustão, desestimulando muitos compradores, e a escassez de pontos de carregamento, juntamente com o tempo necessário para recarregá-los, agrava a situação. Além disso, os incentivos fiscais muitas vezes são limitados e podem ser eliminados por mudanças políticas, criando incerteza. A resistência da indústria automotiva tradicional, preocupações ambientais relacionadas ao ciclo de vida das baterias e desafios tecnológicos, como a autonomia limitada, também são barreiras significativas. Para aumentar a adoção de carros elétricos, é fundamental promover uma abordagem coordenada que inclua incentivos fiscais, expansão da infraestrutura de carregamento, campanhas de conscientização e parcerias entre governo e setor privado.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
->
-> **Orientações**:
->
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 >Nosso objetivo é fazer um aplicativo onde proporcionamos aos usuários informações sobre as diferenças entre um carro a combustão e um elétrico, informações sobre carros elétricos, autonomia e postos de carregamento. Queremos deixar o aplicativo com interface intuitiva para facilitar o uso do usuário.
  
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
->
-> **Orientações**:
->
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
 >A criação de um aplicativo que oferece informações sobre as diferenças entre carros a combustão e elétricos, além de dados sobre autonomia e pontos de carregamento, é justificada pela necessidade de promover a adoção de veículos elétricos em um contexto de crescente preocupação ambiental. A desinformação sobre os benefícios dos carros elétricos pode desencorajar potenciais usuários, e nosso aplicativo visa desmistificar esses conceitos, aumentando a conscientização sobre suas vantagens em termos de eficiência e impacto ambiental. A interface intuitiva é fundamental para garantir que usuários de diferentes perfis possam navegar facilmente, melhorando a experiência e facilitando o acesso a informações essenciais. A capacidade de consultar dados sobre autonomia e localizar postos de carregamento em tempo real ajuda a eliminar preocupações sobre a infraestrutura disponível. Assim, nosso aplicativo educa e empodera os usuários, incentivando uma mudança positiva em direção a uma mobilidade mais sustentável, contribuindo para a redução das emissões de carbono e melhorando a qualidade de vida.
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
->
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Orientações**:
->
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
 >O público-alvo para carros elétricos é diversificado e inclui jovens adultos, profissionais urbanos, famílias, aventureiros e entusiastas de tecnologia, empresas e frotas comerciais, consumidores conscientes ambientalmente e consumidores com renda alta. Os jovens adultos, entre 18 e 35 anos, valorizam inovação e sustentabilidade, utilizando frequentemente as redes sociais para se informar sobre novos produtos. Profissionais urbanos buscam eficiência em seus deslocamentos diários, atraídos pela economia de combustível e pelas vantagens de estacionamento. As famílias, preocupadas com segurança e conforto, veem nos carros elétricos uma opção econômica e sustentável. As empresas, por sua vez, buscam reduzir custos operacionais e melhorar a imagem pública por meio de frotas elétricas. Consumidores conscientes do meio ambiente, de diversas faixas etárias, desejam contribuir para a redução da poluição, enquanto os consumidores de renda alta são atraídos pela tecnologia de ponta e pelo status associado a veículos elétricos. À medida que a tecnologia avança e a infraestrutura de recarga se expande, esse público-alvo pode se diversificar ainda mais.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Descreva quais são as pessoas que usarão a sua aplicação indicando os diferentes perfis. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
->
-> **Orientações**:
->
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
-
 # Product Discovery
 
 ## Etapa de Entendimento
 
-**✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
 > * **Matriz CSD**: também conhecida por Matriz de Alinhamento, é uma ferramenta utilizada no Design Thinking para organizar informações e facilitar o processo de tomada de decisão e solução de problemas;
 
 ## Dúvidas (O que anda não sabemos sobre o problema):
@@ -155,11 +114,6 @@ A falta de conhecimento sobre os carros elétricos e o costume estabelecido dos 
 
 **Novos tópicos ou questões para explorar no futuro**
 >Como podemos passar as principais informações e conhecimento sobre os carros elétricos para o máximo de pessoas possíveis. Sobre quais vantagens "incomuns" têm em adquirir um carro elétrico.
-
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
 
 ## Etapa de Definição
 

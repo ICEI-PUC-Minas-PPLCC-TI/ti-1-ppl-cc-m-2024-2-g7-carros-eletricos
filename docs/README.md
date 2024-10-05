@@ -89,13 +89,13 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 **✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
 > * **Matriz CSD**: também conhecida por Matriz de Alinhamento, é uma ferramenta utilizada no Design Thinking para organizar informações e facilitar o processo de tomada de decisão e solução de problemas;
 
-**Dúvidas(O que anda não sabemos sobre o problema)**:
+## Dúvidas (O que anda não sabemos sobre o problema):
 >Baixo custo de manutenção, A vida útil é menor, Carros elétricos são mais econômicos, Resistência Cultural, Apoio do governo de incentivo ao carro elétrico, Marcas além da Tesla e BYD, Descarte de baterias, Adaptações que precisam ser feitas em moradias dos usuários para um possível carregamento.
 
-**Certezas(O que já sabemos)**:
+## Certezas (O que já sabemos):
 >Valores elevados de peças, Autonomia baixa, Carros elétricos poluem menos, Taxa de desvalorização mais alta que carros tradicionais, Tempo de carregamento alto, Alto valor dos carros elétricos, Baixo ruido.
 
-**Suposições(O que achamos, mas não temos certezas)**:
+## Suposições (O que achamos, mas não temos certezas):
 >Futuramente vai dominar o mercado automobilístico, Não é muito divulgado de forma garantida informações do carro elétrico em geral, Poucas estações de carregamentos, Mecânica de "bairro" atende carro elétrico, Falta de peças, Segurança, Benefícios ao meio ambiente,devido a falta de uso de combustível, O maior reconhecimento de outras marcas dos carros não elétricos faz com que os usuários ainda não valorizem tanto as outras novas.
 
 > * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
@@ -114,12 +114,13 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 **Influenciadoras**
 1)Instituições ambientais
- 
+
+> * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
+
+
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
 > Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
->
-> * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
 > * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
 > * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
 

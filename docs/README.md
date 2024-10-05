@@ -150,10 +150,18 @@ Nesse momento, vamos transformar os insights e validações obtidos em soluçõe
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-| EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`        | PARA ...`MOTIVO/VALOR`               |
+| EU COMO... | QUERO/PRECISO ...        | PARA ...            |
 | --------------------- | ------------------------------------------ | -------------------------------------- |
-| Usuário do sistema   | Registrar minhas tarefas ⚠️ EXEMPLO ⚠️ | Não esquecer de fazê-las             |
-| Administrador         | Alterar permissões ⚠️ EXEMPLO ⚠️      | Permitir que possam administrar contas |
+| Motorista | Informações a respeito dos carros elétricos | Ter maior conhecimento e futuramente adquirir um carro             |
+| Empresário         | Comparativo entre carros a combustão e elétricos      | Adquirir os carros mais adequados para a frota da minha empresa |
+| Proprietário de carro elétrico   | Um mapa dos carregadores pela cidade e contato de mecânicas especializadas | Carregar meu veículo e fazer a manutenção de forma segura, confiável e com o melhor preço             |
+| Governo   | Ajudar com incentivos os motoristas de carros hibridos e a combustão. | Acesso aos carros eletricos.             |
+| Fabricante de automóveis   | Receber incentivos fiscais e apoio governamental para a produção de carros elétricos | aumentar a viabilidade financeira de desenvolver e oferecer mais modelos sustentáveis no mercado.             |
+| Instituições ambientais   | implementar incentivos fiscais e subsídios para a compra de carros elétricos | para uma frota veicular mais sustentável e reduzir as emissões de carbono no país.             |
+| indústria de energia
+   | maior incentivo para que a população adquira carros elétricos | o possível investimento em fontes de energia renovável             |
+| Dono de carro a combustível   | Melhor fontes de informações e pesquisas  | Possível troca de meu veículo             |
+
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >

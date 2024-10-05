@@ -205,7 +205,14 @@ Artefatos relacionados com a interface e a interacão do usuário na proposta de
 
 Estes são os protótipos de telas do sistema.
 
-**✳️✳️✳️ COLOQUE AQUI OS PROTÓTIPOS DE TELAS COM TÍTULO E DESCRIÇÃO ✳️✳️✳️**
+![1](https://github.com/user-attachments/assets/cacddad7-5f59-433b-b244-d174cb585e1e)
+![2](https://github.com/user-attachments/assets/43fe2c11-69a7-43f3-8356-be11427fbde7)
+![3](https://github.com/user-attachments/assets/0e3fc23d-d08c-4c59-a69f-0658f76c337c)
+![4](https://github.com/user-attachments/assets/2c274003-fa79-4961-8c15-64dcb2ee7ef0)
+![5](https://github.com/user-attachments/assets/43c14e2b-3363-442c-bb3a-31308593251a)
+![6](https://github.com/user-attachments/assets/bc13245b-4b1c-4cfb-9582-1bb89f9bf6b8)
+![7](https://github.com/user-attachments/assets/823bbefc-cc45-4444-ba37-1c4b815cf3a5)
+![8](https://github.com/user-attachments/assets/bf499ab8-7e27-4d7d-aca2-6e6a2db8fe93)
 
 ##### TELA XPTO ⚠️ EXEMPLO ⚠️
 

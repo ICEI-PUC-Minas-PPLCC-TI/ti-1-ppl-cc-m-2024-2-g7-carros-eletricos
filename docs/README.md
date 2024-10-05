@@ -166,8 +166,14 @@ A falta de conhecimento sobre os carros elétricos e o costume estabelecido dos 
 ### Personas
 
 **✳️✳️✳️ APRESENTE OS DIAGRAMAS DE PERSONAS ✳️✳️✳️**
-![Persona 1](https://github.com/user-attachments/assets/26fec144-90e7-4296-b67f-892501e52380)
+**Persona 1:**
+![Persona 1](https://github.com/user-attachments/assets/bfa54f97-9f2a-4aae-8b4a-991ced2282b0)
 
+**Persona 2:**
+![Persona 2](https://github.com/user-attachments/assets/7157aa4c-00ff-4624-baae-c96157e9d09e)
+
+**Persona 3:**
+![Persona 3](https://github.com/user-attachments/assets/888c2f4a-0873-4bd5-8d68-a8d1e2b18214)
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >

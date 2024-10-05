@@ -26,7 +26,7 @@ A documentação do projeto é estruturada da seguinte forma:
 
 # Contexto
 
-Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa e público-alvo.
+>A falta de incentivos para carros elétricos reflete um desafio em diversas regiões, onde políticas públicas não priorizam a transição para uma mobilidade mais sustentável. Em muitos países, o custo inicial dos carros elétricos ainda é mais elevado em comparação com veículos a combustão, o que desestimula a compra. Além disso, a infraestrutura de recarga é insuficiente, com poucas estações disponíveis, o que aumenta a ansiedade dos consumidores em relação à autonomia dos veículos. Sem incentivos governamentais, como subsídios, isenções fiscais ou facilitação de crédito, a adoção desses veículos é lenta. Outro ponto importante é a falta de programas de conscientização que informem a população sobre os benefícios ambientais e econômicos dos carros elétricos a longo prazo. Dessa forma, a ausência de incentivos impacta diretamente na transição para uma mobilidade mais limpa, retardando o avanço necessário para reduzir a emissão de poluentes e enfrentar as mudanças climáticas.
 
 ## Problema
 

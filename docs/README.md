@@ -156,10 +156,9 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 | Empresário         | Comparativo entre carros a combustão e elétricos      | Adquirir os carros mais adequados para a frota da minha empresa |
 | Proprietário de carro elétrico   | Um mapa dos carregadores pela cidade e contato de mecânicas especializadas | Carregar meu veículo e fazer a manutenção de forma segura, confiável e com o melhor preço             |
 | Governo   | Ajudar com incentivos os motoristas de carros hibridos e a combustão. | Acesso aos carros eletricos.             |
-| Fabricante de automóveis   | Receber incentivos fiscais e apoio governamental para a produção de carros elétricos | aumentar a viabilidade financeira de desenvolver e oferecer mais modelos sustentáveis no mercado.             |
-| Instituições ambientais   | implementar incentivos fiscais e subsídios para a compra de carros elétricos | para uma frota veicular mais sustentável e reduzir as emissões de carbono no país.             |
-| indústria de energia
-   | maior incentivo para que a população adquira carros elétricos | o possível investimento em fontes de energia renovável             |
+| Fabricante de automóveis   | Receber incentivos fiscais e apoio governamental para a produção de carros elétricos | Aumentar a viabilidade financeira de desenvolver e oferecer mais modelos sustentáveis no mercado.             |
+| Instituições ambientais   | Implementar incentivos fiscais e subsídios para a compra de carros elétricos | Para uma frota veicular mais sustentável e reduzir as emissões de carbono no país.             |
+| Indústria de energia | Maior incentivo para que a população adquira carros elétricos | O possível investimento em fontes de energia renovável             |
 | Dono de carro a combustível   | Melhor fontes de informações e pesquisas  | Possível troca de meu veículo             |
 
 

@@ -6,7 +6,7 @@ Informações básicas do projeto.
 * **Repositório GitHub:** https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos)
 * **Membros da equipe:**
 
-  * https://github.com/Matheus-026)
+  * [Matheus](https://github.com/Matheus-026)
   * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
   * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
 

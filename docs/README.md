@@ -28,9 +28,7 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Problema
 
-A falta de incentivo a carros elétricos é um problema complexo que envolve custos elevados, infraestrutura inadequada e percepções errôneas dos consumidores. O preço inicial desses veículos é geralmente superior ao dos carros a combustão, desestimulando muitos compradores, e a escassez de pontos de carregamento, juntamente com o tempo necessário para recarregá-los, agrava a situação.
-
-Além disso, os incentivos fiscais muitas vezes são limitados e podem ser eliminados por mudanças políticas, criando incerteza. A resistência da indústria automotiva tradicional, preocupações ambientais relacionadas ao ciclo de vida das baterias e desafios tecnológicos, como a autonomia limitada, também são barreiras significativas. Para aumentar a adoção de carros elétricos, é fundamental promover uma abordagem coordenada que inclua incentivos fiscais, expansão da infraestrutura de carregamento, campanhas de conscientização e parcerias entre governo e setor privado.
+>A falta de incentivo a carros elétricos é um problema complexo que envolve custos elevados, infraestrutura inadequada e percepções errôneas dos consumidores. O preço inicial desses veículos é geralmente superior ao dos carros a combustão, desestimulando muitos compradores, e a escassez de pontos de carregamento, juntamente com o tempo necessário para recarregá-los, agrava a situação. Além disso, os incentivos fiscais muitas vezes são limitados e podem ser eliminados por mudanças políticas, criando incerteza. A resistência da indústria automotiva tradicional, preocupações ambientais relacionadas ao ciclo de vida das baterias e desafios tecnológicos, como a autonomia limitada, também são barreiras significativas. Para aumentar a adoção de carros elétricos, é fundamental promover uma abordagem coordenada que inclua incentivos fiscais, expansão da infraestrutura de carregamento, campanhas de conscientização e parcerias entre governo e setor privado.
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >

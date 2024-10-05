@@ -173,8 +173,33 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID     | Descrição do Requisito                                   | Prioridade |
 | ------ | ---------------------------------------------------------- | ---------- |
-| RF-001 | Permitir que o usuário cadastre tarefas ⚠️ EXEMPLO ⚠️ | ALTA       |
-| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️ | MÉDIA     |
+| RF-001 | O site deve mostrar notícias e informações a respeito dos carros 
+elétricos | ALTA       |
+| RF-002 | O site deve conter comparativos entre carros a combustão e carros 
+elétricos | MÉDIA     |
+| RF-003 | A persona pode consultar através do sistema um mapa de carregadores e 
+mecânicas especializadas | ALTA       |
+| RF-004 | O site deve ter uma tabela de preços e um ranking dos melhores carros 
+baseados no orçamento da persona. | ALTA       |
+| RF-005 | O site deve oferecer um simulador onde o usuário pode inserir a 
+quilometragem diária para estimar o tempo e custo de recarga dos carros.
+ | ALTA       |
+| RF-006 | O site deve conter uma seção com informações sobre o impacto positivo dos 
+carros elétricos no meio ambiente, incluindo emissões de CO2 e redução de 
+poluição.
+ | ALTA       |
+| RF-007 | O site deve incluir depoimentos e vídeos de proprietários de carros 
+elétricos falando sobre suas experiências, destacando as vantagens e 
+desafios.
+ | ALTA       |
+| RF-008 | O site deve exibir uma galeria simples com imagens de diferentes modelos 
+de carros elétricos.
+ | ALTA       |
+| RF-009 | O site deve ter um menu de navegação no topo para acessar as diferentes 
+seções, como "Modelos", "Comparador", "FAQ", e "Contato".
+ | ALTA       |
+| RF-0010 | O site deve conter uma lista de perguntas e respostas frequentes sobre 
+carros elétricos, com links clicáveis para expandir as respostas. | ALTA       |
 
 ### Requisitos não Funcionais
 

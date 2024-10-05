@@ -7,7 +7,10 @@ Informações básicas do projeto.
 * **Membros da equipe:**
 
   * [Matheus Mendes Ramos](https://github.com/Matheus-026)
-  * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
+  * [Jefferson]
+  * [Lara]
+  * [Guilherme]
+  * [Thiago]
   * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
 
 A documentação do projeto é estruturada da seguinte forma:

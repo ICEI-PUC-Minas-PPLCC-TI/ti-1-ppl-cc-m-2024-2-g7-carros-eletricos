@@ -244,11 +244,9 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 
 | Ambiente                    | Plataforma | Link de acesso                                     |
 | --------------------------- | ---------- | -------------------------------------------------- |
-| Processo de Design Thinking | Miro       | https://miro.com/XXXXXXX ⚠️ EXEMPLO ⚠️        |
-| Repositório de código     | GitHub     | https://github.com/XXXXXXX ⚠️ EXEMPLO ⚠️      |
-| Hospedagem do site          | Render     | https://site.render.com/XXXXXXX ⚠️ EXEMPLO ⚠️ |
-| Protótipo Interativo       | MarvelApp  | https://marvelapp.com/XXXXXXX ⚠️ EXEMPLO ⚠️   |
-|                             |            |                                                    |
+| Processo de Design Thinking | Miro       | (https://miro.com/app/board/uXjVKn-V84M=/)        |
+| Repositório de código     | GitHub     | (https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos)      |
+| Protótipo Interativo       | Figma  | https://www.figma.com/   |
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >

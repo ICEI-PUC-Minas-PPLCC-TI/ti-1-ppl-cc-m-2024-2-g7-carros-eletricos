@@ -103,6 +103,7 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 **Fundamentais**
 1) Motoristas
 2) Vendedor
+
 **Importantes**
 1) Governo
 2) Mecânicos
@@ -110,6 +111,7 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 4) Empresas de Energia
 5) Concorrentes
 6) Postos de gasolina
+
 **Influenciadoras**
 1)Instituições ambientais
  

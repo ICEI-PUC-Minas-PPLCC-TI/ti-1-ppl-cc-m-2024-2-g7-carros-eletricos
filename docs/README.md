@@ -143,18 +143,31 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 > * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
 
+**O que os participantes falaram ou fizeram que surprendeu, ou falas mais significativas.**
+>Sobre o alto valor dos carros elétricos porém sobre o quanto um carro elétrico facilita a vida após a aquisição.
+A falta de conhecimento sobre os carros elétricos e o costume estabelecido dos carros a combustão.
+
+**Principais temas ou aprendizados que surgiram desta entrevista**
+>Sobre como é difícil confiar e adquirir um produto novo, em que se gerou pouco conhecimento nas pessoas.
+
+**Aspectos que importaram mais para os participantes**
+>Valor, autonomia, nível de capital para manter os carros.
+
+**Novos tópicos ou questões para explorar no futuro**
+>Como podemos passar as principais informações e conhecimento sobre os carros elétricos para o máximo de pessoas possíveis. Sobre quais vantagens "incomuns" têm em adquirir um carro elétrico.
 
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
 > Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
-> * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
 
 ## Etapa de Definição
 
 ### Personas
 
 **✳️✳️✳️ APRESENTE OS DIAGRAMAS DE PERSONAS ✳️✳️✳️**
+![Persona 1](https://github.com/user-attachments/assets/26fec144-90e7-4296-b67f-892501e52380)
+
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >

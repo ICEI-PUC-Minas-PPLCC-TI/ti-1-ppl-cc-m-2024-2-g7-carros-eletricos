@@ -11,7 +11,6 @@ Informações básicas do projeto.
   * [Lara]
   * [Guilherme]
   * [Thiago]
-  * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
 
 A documentação do projeto é estruturada da seguinte forma:
 

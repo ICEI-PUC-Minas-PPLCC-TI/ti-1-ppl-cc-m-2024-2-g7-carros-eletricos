@@ -8,7 +8,7 @@ Informações básicas do projeto.
 
   * [Matheus Mendes Ramos](https://github.com/Matheus-026)
   * [Jefferson Gomes Soares](https://github.com/J3ff5)
-  * [Lara]
+  * [Lara Freitas Melo](https://github.com/larafmmelo)
   * [Guilherme]
   * [Thiago]
 

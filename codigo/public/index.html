@@ -6,17 +6,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mapa com Coordenadas Destacadas</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-  <style>
-    #map {
-      height: 100vh;
-      /* Ocupa a tela inteira */
-    }
-  </style>
+  <link rel="stylesheet" href="./assets/css/maps.css" />
 </head>
 
 <body>
 
-  <div id="map"></div>
+  <div class="mapContainer">
+    <div class="controls">
+      <label><input type="checkbox" id="estacoes" /> Estações de Carregamento</label>
+      <label><input type="checkbox" id="mecanicas" /> Oficinas Mecânicas</label>
+    </div>
+    <div id="map"></div>
+  </div>
 
   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
   <script src="./assets/js/maps.js"></script>

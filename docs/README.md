@@ -9,7 +9,6 @@ Informações básicas do projeto.
   * [Matheus Mendes Ramos](https://github.com/Matheus-026)
   * [Jefferson Gomes Soares](https://github.com/J3ff5)
   * [Lara Freitas Melo](https://github.com/larafmmelo)
-  * [Guilherme]
   * [Thiago]
 
 A documentação do projeto é estruturada da seguinte forma:

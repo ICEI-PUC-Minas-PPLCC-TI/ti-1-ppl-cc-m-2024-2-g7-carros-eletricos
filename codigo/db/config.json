@@ -1,32 +1,8 @@
 {
-  "usuarios": [
-    {
-      "id": 1,
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
-    },
-    {
-      "id": 2,
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
-    },
-    {
-      "login": "rommel",
-      "senha": "123",
-      "nome": "Rommel",
-      "email": "rommel@gmail.com",
-      "id": 3
-    }
-  ],
-
   "carro": [
     {
       "id": 1,
-      "imagem": "/codigo/public/assets/images/BYD_DOLPHIN.jpg",
+      "imagem": "./public/src/BYD_DOLPHIN.jpg",
       "marca": "BYD",
       "modelo": "DOLPHIN",
       "ano": "2022",
@@ -35,7 +11,7 @@
     },
     {
       "id": 2,
-      "imagem": "/codigo/public/assets/images/TESLA_MODELY.jpg",
+      "imagem": "./public/src/TESLA_MODELY.jpg",
       "marca": "TESLA",
       "modelo": "MODEL Y",
       "ano": "2024",
@@ -44,7 +20,7 @@
     },
     {
       "id": 3,
-      "imagem": "/codigo/public/assets/images/GWM_ORA.jpg",
+      "imagem": "./public/src/GWM_ORA.jpg",
       "marca": "GWM",
       "modelo": "ORA",
       "ano": "2019",
@@ -53,7 +29,7 @@
     },
     {
       "id": 4,
-      "imagem": "/codigo/public/assets/images/TESLA_MODELS.jpg",
+      "imagem": "./public/src/TESLA_MODELS.jpg",
       "marca": "TESLA",
       "modelo": "MODEL S",
       "ano": "2024",
@@ -62,7 +38,7 @@
     },
     {
       "id": 5,
-      "imagem": "/codigo/public/assets/images/BYD_SEAL.jpg",
+      "imagem": "./public/src/BYD_SEAL.jpg",
       "marca": "BYD",
       "modelo": "SEAL",
       "ano": "2023",
@@ -71,7 +47,7 @@
     },
     {
       "id": 6,
-      "imagem": "/codigo/public/assets/images/GWM_HAVAL.jpg",
+      "imagem": "./public/src/GWM_HAVAL.jpg",
       "marca": "GWM",
       "modelo": "HAVAL",
       "ano": "2022",
@@ -80,7 +56,7 @@
     },
     {
       "id": 7,
-      "imagem": "/codigo/public/assets/images/BWD_SONG.jpg",
+      "imagem": "./public/src/BWD_SONG.jpg",
       "marca": "BYD",
       "modelo": "SONG",
       "ano": "2024",
@@ -89,7 +65,7 @@
     },
     {
       "id": 8,
-      "imagem": "/codigo/public/assets/images/TESLA_MODEL3.jpg",
+      "imagem": "./public/src/TESLA_MODEL3.jpg",
       "marca": "TESLA",
       "modelo": "MODEL 3",
       "ano": "2021",
@@ -98,7 +74,7 @@
     },
     {
       "id": 9,
-      "imagem": "./codigo/public/assets/images/TESLA_CYBERTRUCK.jpg",
+      "imagem": "./public/src/TESLA_CYBERTRUCK.jpg",
       "marca": "TESLA",
       "modelo": "CYBERTRUCK",
       "ano": "2024",

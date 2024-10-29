@@ -10,7 +10,7 @@ document.querySelectorAll('.toastBtn').forEach(function (button) {
 });
 
 // Json
-fetch('/codigo/db/db.json')
+fetch('/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/db/db.json')
     .then(response => {
         if (!response.ok) {
             throw new Error('Erro ao carregar o JSON: ' + response.statusText);

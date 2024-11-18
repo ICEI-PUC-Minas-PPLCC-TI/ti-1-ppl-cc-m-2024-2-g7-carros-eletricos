@@ -1,0 +1,34 @@
+{
+    "faq": [
+        {
+            "id": "1e89e3d9-c42a-4c76-a1f2-6f58bcbf7fd2",
+            "question": "Quanto tempo leva para carregar um carro elétrico ?",
+            "answer": "O tempo de carregamento depende do tipo de carregador usado. Com uma tomada residencial padrão, pode levar de 8 a 12 horas, enquanto carregadores rápidos podem reduzir o tempo para 30-60 minutos para uma carga de 80%."
+        },
+        {
+            "id": "e5783a26-b0cb-47a4-bc47-bf034123a125",
+            "question": "Qual é a autonomia de um carro elétrico ?",
+            "answer": "A maioria dos carros elétricos modernos tem uma autonomia de 250 a 400 km com uma carga completa, embora modelos premium possam superar os 500 km."
+        },
+        {
+            "id": "29cb6fae-cb0b-4f93-8db7-83e1481f75a6",
+            "question": "Os carros elétricos são mais caros para manter ?",
+            "answer": "Carros elétricos geralmente têm custos de manutenção mais baixos porque possuem menos peças móveis em comparação aos veículos a gasolina. Não é necessário trocar o óleo, e os freios tendem a durar mais devido à frenagem regenerativa."
+        },
+        {
+            "id": "9b1d2ba2-03e5-45e6-a558-76222d2f8aa9",
+            "question": "Como o desempenho de um carro elétrico se compara a um carro a combustão?",
+            "answer": "Carros elétricos frequentemente oferecem melhor aceleração devido ao torque instantâneo dos motores elétricos. Eles podem parecer mais responsivos e suaves em comparação com carros a combustão."
+        },
+        {
+            "id": "1b1283b5-f34d-48a1-b7be-64bff45c23c6",
+            "question": "Posso carregar meu carro elétrico em casa ?",
+            "answer": "Sim, a maioria dos carros elétricos pode ser carregada em casa usando uma tomada padrão ou um carregador residencial dedicado, que é mais rápido. O carregamento em casa é conveniente e pode ser feito durante a noite."
+        },
+        {
+            "id": "f4e7843c-8d89-4d7d-a120-2ae9f30b4913",
+            "question": "Quanto tempo duram as baterias de carros elétricos ?",
+            "answer": "A maioria das baterias de carros elétricos é projetada para durar de 8 a 10 anos ou cerca de 160.000 a 240.000 km antes que a capacidade diminua significativamente. Os fabricantes geralmente oferecem garantias que cobrem esse período."
+        }
+    ]
+}

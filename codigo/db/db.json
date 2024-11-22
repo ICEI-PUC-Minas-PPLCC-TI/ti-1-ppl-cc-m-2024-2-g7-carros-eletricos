@@ -1,14 +1,15 @@
 {
   "usuarios": [
     {
-      "id": 1,
+      "id": "1",
       "login": "admin",
       "senha": "123",
       "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "email": "admin@abc.com",
+      "isAdmin": true
     },
     {
-      "id": 2,
+      "id": "2",
       "login": "user",
       "senha": "123",
       "nome": "Usuario Comum",
@@ -19,13 +20,18 @@
       "senha": "123",
       "nome": "Rommel",
       "email": "rommel@gmail.com",
-      "id": 3
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "nome": "user",
+      "email": "xxxxxxxx@gmail.com",
+      "senha": "12345678"
     }
   ],
-
   "carro": [
     {
-      "id": 1,
+      "id": "1",
       "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/BYD_DOLPHIN.jpg",
       "marca": "BYD",
       "modelo": "DOLPHIN",
@@ -34,7 +40,7 @@
       "preco": "R$ 149.800"
     },
     {
-      "id": 2,
+      "id": "2",
       "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/TESLA_MODELY.jpg",
       "marca": "TESLA",
       "modelo": "MODEL Y",
@@ -43,7 +49,7 @@
       "preco": "R$ 499.000"
     },
     {
-      "id": 3,
+      "id": "3",
       "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/GWM_ORA.jpg",
       "marca": "GWM",
       "modelo": "ORA",
@@ -52,7 +58,7 @@
       "preco": "R$ 150.000"
     },
     {
-      "id": 4,
+      "id": "4",
       "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/TESLA_MODELS.jpg",
       "marca": "TESLA",
       "modelo": "MODEL S",
@@ -61,7 +67,7 @@
       "preco": "R$ 1.276.840"
     },
     {
-      "id": 5,
+      "id": "5",
       "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/BYD_SEAL.jpg",
       "marca": "BYD",
       "modelo": "SEAL",
@@ -70,7 +76,7 @@
       "preco": "R$ 296.800"
     },
     {
-      "id": 6,
+      "id": "6",
       "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/GWM_HAVAL.jpg",
       "marca": "GWM",
       "modelo": "HAVAL",
@@ -79,7 +85,7 @@
       "preco": "R$ 214.000"
     },
     {
-      "id": 7,
+      "id": "7",
       "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/BWD_SONG.jpg",
       "marca": "BYD",
       "modelo": "SONG",
@@ -88,7 +94,7 @@
       "preco": "R$ 229.800"
     },
     {
-      "id": 8,
+      "id": "8",
       "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/TESLA_MODEL3.jpg",
       "marca": "TESLA",
       "modelo": "MODEL 3",
@@ -97,7 +103,7 @@
       "preco": "R$ 389.000"
     },
     {
-      "id": 9,
+      "id": "9",
       "imagem": "./ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/TESLA_CYBERTRUCK.jpg",
       "marca": "TESLA",
       "modelo": "CYBERTRUCK",

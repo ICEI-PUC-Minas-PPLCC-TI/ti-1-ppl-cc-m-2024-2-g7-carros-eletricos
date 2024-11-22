@@ -1,10 +1,10 @@
 document.addEventListener('DOMContentLoaded', async function () {
     const editForm = document.getElementById('editForm');
-    const apiUrl = 'http://localhost:3000/usuarios';
-    
-    // Supomos que o email esteja armazenado em sessionStorage/localStorage
-    const userEmail = sessionStorage.getItem('userEmail') || localStorage.getItem('userEmail');
-    
+    const apiUrl = 'http://localhost:3000/usuarios'; // URL base do JSON Server
+
+    // Obter o email do usuário do sessionStorage/localStorage
+    const userEmail = localStorage.getItem('userEmail');
+
     if (!userEmail) {
         alert('Email de usuário não encontrado!');
         return;
@@ -29,35 +29,39 @@ document.addEventListener('DOMContentLoaded', async function () {
             document.getElementById('editSenha').value = userData.senha || '';
         } catch (error) {
             console.error('Erro ao carregar os dados do usuário:', error);
+            alert('Erro ao carregar os dados do usuário!');
         }
     }
 
-    // Carrega os dados do usuário
+    // Carrega os dados do usuário ao iniciar
     loadUserData();
 
-    // Função para enviar dados atualizados do formulário
+    // Função para enviar os dados atualizados do formulário
     editForm.addEventListener('submit', async function (event) {
         event.preventDefault();
+
         const nome = document.getElementById('editNome').value;
         const email = document.getElementById('editEmail').value;
         const senha = document.getElementById('editSenha').value;
 
         try {
             const updatedUser = { nome, email, senha };
+
             const response = await fetch(`${apiUrl}/${userId}`, {
                 method: 'PUT',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify(updatedUser)
+                body: JSON.stringify(updatedUser),
             });
 
             if (response.ok) {
                 alert('Usuário atualizado com sucesso!');
                 editForm.reset();
             } else {
-                alert('Erro ao atualizar usuário');
+                throw new Error('Erro ao atualizar usuário');
             }
         } catch (error) {
             console.error('Erro ao atualizar usuário:', error);
+            alert('Erro ao atualizar usuário!');
         }
     });
 
@@ -68,17 +72,18 @@ document.addEventListener('DOMContentLoaded', async function () {
 
         try {
             const response = await fetch(`${apiUrl}/${userId}`, {
-                method: 'DELETE'
+                method: 'DELETE',
             });
 
             if (response.ok) {
                 alert('Usuário excluído com sucesso!');
                 window.location.href = '/index.html'; // Redireciona após exclusão
             } else {
-                alert('Erro ao excluir usuário');
+                throw new Error('Erro ao excluir usuário');
             }
         } catch (error) {
             console.error('Erro ao excluir usuário:', error);
+            alert('Erro ao excluir usuário!');
         }
     }
 

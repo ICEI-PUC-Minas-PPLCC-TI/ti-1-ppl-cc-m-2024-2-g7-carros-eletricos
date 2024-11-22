@@ -15,9 +15,9 @@ document.addEventListener('DOMContentLoaded', function () {
             const user = users.find(user => user.email === email && user.senha === senha);
 
             if (user) {
-                sessionStorage.setItem('userEmail', email);
+                localStorage.setItem('userEmail', email);
                 alert('Login realizado com sucesso!');
-                window.location.href = './editar.html'; // Redireciona para a página de edição
+                window.location.href = '../../editar.html'; 
             } else {
                 alert('Email ou senha inválidos!');
             }

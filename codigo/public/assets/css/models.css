@@ -3,18 +3,6 @@
     padding: 0;
 }
 
-header{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    justify-items: center;
-    height: 8vh;
-    background-color: #f0f0f0;
-    border-bottom: 1px solid #dee2e6;
-}
-
 .cabDiv {
     margin-top: 1.5%;
     display: flex;
@@ -58,6 +46,8 @@ header{
     display: flex;
     flex-direction: row;
     align-items: center;
+    text-align: center;
+    justify-content: center;
 }
 
 .filtoBtn {

@@ -1,0 +1,68 @@
+/* style.css */
+
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.navbar {
+    background-color: #007bff;
+}
+
+.navbar .nav-link {
+    color: #fff;
+}
+
+.navbar .nav-link:hover {
+    color: #ddd;
+}
+
+.jumbotron {
+    background-color: #e9ecef;
+    padding: 2rem 1rem;
+    border-radius: 0.3rem;
+}
+
+.jumbotron .display-4 {
+    font-size: 2.5rem;
+    font-weight: 300;
+}
+
+.jumbotron .lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card img {
+    height: 150px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+footer p {
+    margin: 0;
+}

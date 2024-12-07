@@ -5,7 +5,6 @@ html, body {
     height: 100%;
 }
 body {
-    background-image: url('../images/Eletric_Car.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

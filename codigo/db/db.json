@@ -32,7 +32,7 @@
   "carro": [
     {
       "id": "1",
-      "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/BYD_DOLPHIN.jpg",
+      "imagem": "/codigo/public/assets/images/BYD_DOLPHIN.jpg",
       "marca": "BYD",
       "modelo": "DOLPHIN",
       "ano": "2022",
@@ -41,7 +41,7 @@
     },
     {
       "id": "2",
-      "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/TESLA_MODELY.jpg",
+      "imagem": "/codigo/public/assets/images/TESLA_MODELY.jpg",
       "marca": "TESLA",
       "modelo": "MODEL Y",
       "ano": "2024",
@@ -50,7 +50,7 @@
     },
     {
       "id": "3",
-      "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/GWM_ORA.jpg",
+      "imagem": "/codigo/public/assets/images/GWM_ORA.jpg",
       "marca": "GWM",
       "modelo": "ORA",
       "ano": "2019",
@@ -59,7 +59,7 @@
     },
     {
       "id": "4",
-      "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/TESLA_MODELS.jpg",
+      "imagem": "/codigo/public/assets/images/TESLA_MODELS.jpg",
       "marca": "TESLA",
       "modelo": "MODEL S",
       "ano": "2024",
@@ -68,7 +68,7 @@
     },
     {
       "id": "5",
-      "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/BYD_SEAL.jpg",
+      "imagem": "/codigo/public/assets/images/BYD_SEAL.jpg",
       "marca": "BYD",
       "modelo": "SEAL",
       "ano": "2023",
@@ -77,7 +77,7 @@
     },
     {
       "id": "6",
-      "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/GWM_HAVAL.jpg",
+      "imagem": "/codigo/public/assets/images/GWM_HAVAL.jpg",
       "marca": "GWM",
       "modelo": "HAVAL",
       "ano": "2022",
@@ -86,7 +86,7 @@
     },
     {
       "id": "7",
-      "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/BWD_SONG.jpg",
+      "imagem": "/codigo/public/assets/images/BWD_SONG.jpg",
       "marca": "BYD",
       "modelo": "SONG",
       "ano": "2024",
@@ -95,7 +95,7 @@
     },
     {
       "id": "8",
-      "imagem": "/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/TESLA_MODEL3.jpg",
+      "imagem": "/codigo/public/assets/images/TESLA_MODEL3.jpg",
       "marca": "TESLA",
       "modelo": "MODEL 3",
       "ano": "2021",
@@ -104,7 +104,7 @@
     },
     {
       "id": "9",
-      "imagem": "./ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/public/assets/images/TESLA_CYBERTRUCK.jpg",
+      "imagem": "/codigo/public/assets/images/TESLA_CYBERTRUCK.jpg",
       "marca": "TESLA",
       "modelo": "CYBERTRUCK",
       "ano": "2024",

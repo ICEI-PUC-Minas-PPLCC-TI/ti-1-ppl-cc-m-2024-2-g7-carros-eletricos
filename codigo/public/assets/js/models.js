@@ -1,5 +1,5 @@
 // Toastes
-document.querySelectorAll('.toastBtn').forEach(function (button) {
+document.querySelectorAll('.toastBtn').forEach(function(button) {
     button.addEventListener('click', function () {
         var toastEl = document.getElementById('liveToast');
         var toast = new bootstrap.Toast(toastEl, {
@@ -10,7 +10,7 @@ document.querySelectorAll('.toastBtn').forEach(function (button) {
 });
 
 // Json
-fetch('/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/db/db.json')
+fetch('../db/db.json')
     .then(response => {
         if (!response.ok) {
             throw new Error('Erro ao carregar o JSON: ' + response.statusText);
@@ -38,7 +38,7 @@ fetch('/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/db/db.json')
                 cardText.innerHTML = `${data.carro[i].marca} ${data.carro[i].modelo} <br> Ano: ${data.carro[i].ano} <br> Autonomia: ${data.carro[i].autonomia}`;
                 cardText.classList.add('card-description');
 
-                cards[i].addEventListener('click', function () {
+                cards[i].addEventListener('click', function() {
                     const existingPopover = document.querySelector('.popover');
                     if (existingPopover) {
                         existingPopover.remove();
@@ -68,14 +68,14 @@ fetch('/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos/codigo/db/db.json')
         }
 
         document.querySelectorAll('.dropdown-item').forEach(item => {
-            item.addEventListener('click', function () {
+            item.addEventListener('click', function() {
                 const filtroModelo = this.closest('.dropdown').querySelector('.dropdown-toggle').textContent.trim();
                 const filtroAno = this.textContent.trim();
                 filtroCarros(filtroModelo, filtroAno, data.carro, cards);
             });
         });
 
-        document.getElementById('clearFilter').addEventListener('click', function () {
+        document.getElementById('clearFilter').addEventListener('click', function() {
             filtroCarros('clear', '', data.carro, cards);
         });
     })
@@ -104,3 +104,83 @@ function filtroCarros(filtroModelo, filtroAno, carros, cards) {
         }
     }
 }
+
+document.getElementById('addCarForm').addEventListener('submit', function(event) {
+    event.preventDefault();
+
+    const newCar = {
+        id: Date.now(),
+        imagem: document.getElementById('carImage').value,
+        marca: document.getElementById('carBrand').value,
+        modelo: document.getElementById('carModel').value,
+        ano: document.getElementById('carYear').value,
+        autonomia: document.getElementById('carAutonomy').value,
+        preco: document.getElementById('carPrice').value
+    };
+
+    fetch('../db/db.json')
+        .then(response => response.json())
+        .then(data => {
+            data.carro.push(newCar);
+            saveJson(data);
+            alert('Carro adicionado com sucesso!');
+        })
+        .catch(error => console.error('Erro ao carregar o JSON:', error));
+});
+
+function saveJson(data) {
+    fetch('http://localhost:3000/save-json', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(data)
+    })
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Erro ao salvar o JSON: ' + response.statusText);
+        }
+        return response.json();
+    })
+    .then(result => {
+        console.log(result.message);
+    })
+    .catch(error => console.error('Erro ao salvar o JSON:', error));
+}
+
+function loadRanking() {
+    fetch('../db/db.json')
+        .then(response => response.json())
+        .then(data => {
+            const rankingContainer = document.getElementById('rankingContainer');
+            rankingContainer.innerHTML = '';
+
+            data.carro.forEach(car => {
+                const carElement = document.createElement('div');
+                carElement.classList.add('card', 'mb-3');
+                carElement.style.width = '18rem';
+                carElement.innerHTML = `
+                    <img src="${car.imagem}" class="card-img-top" alt="Imagem do ${car.modelo}">
+                    <div class="card-body">
+                        <h5 class="card-title">${car.marca} ${car.modelo}</h5>
+                        <p class="card-text">Ano: ${car.ano}</p>
+                        <p class="card-text">Autonomia: ${car.autonomia}</p>
+                        <p class="card-text">Preço: ${car.preco}</p>
+                    </div>
+                `;
+                rankingContainer.appendChild(carElement);
+            });
+        })
+        .catch(error => console.error('Erro ao carregar o JSON:', error));
+}
+
+document.addEventListener('DOMContentLoaded', loadRanking);
+
+document.addEventListener("DOMContentLoaded", function() {
+    fetch('navBar.html')
+        .then(response => response.text())
+        .then(data => {
+            document.querySelector('header').innerHTML = data;
+        })
+        .catch(error => console.error('Error loading navbar:', error));
+});

@@ -235,15 +235,13 @@ Relação de ferramentas empregadas pelo grupo durante o projeto.
 
 ## Gerenciamento do Projeto
 
-**Guilherme** - Ranking e FAQ
+**Thiago** - Modelos e Ranking
 
-**Thiago** - Simulador de Uso
+**Matheus** - Comparativo e FAQ
 
-**Matheus** - Modelos
+**Lara** - Noticias / Informações e Menu de Informações
 
-**Lara** - Informações sobre impactos no meio ambiente
-
-**Jefferson** - Depoimentos
+**Jefferson** - Depoimentos, Mapa de carregadores e Mecanicos e Simulador.
 
 # Solução Implementada
 

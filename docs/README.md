@@ -7,7 +7,6 @@ Informações básicas do projeto.
 * **Membros da equipe:**
 
   * [Matheus Mendes Ramos](https://github.com/Matheus-026)
-  * [Jefferson Gomes Soares](https://github.com/J3ff5)
   * [Lara Freitas Melo](https://github.com/larafmmelo)
   * [Thiago]
 

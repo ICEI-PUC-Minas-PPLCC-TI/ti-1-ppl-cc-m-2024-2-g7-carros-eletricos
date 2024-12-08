@@ -370,5 +370,7 @@ Esta seção apresenta os módulos e APIs utilizados na solução
 As referências utilizadas no trabalho foram:
 
 >  BYD [https://www.byd.com/br](https://www.byd.com/br)
+
 > Tesla [https://www.tesla.com](https://www.tesla.com)
+
 > Nissan[https://www.nissan.com.br/veiculos/modelos/novo-leaf.html](https://www.nissan.com.br/veiculos/modelos/novo-leaf.html)

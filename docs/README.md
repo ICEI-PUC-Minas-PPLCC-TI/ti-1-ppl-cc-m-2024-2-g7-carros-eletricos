@@ -263,71 +263,86 @@ O vídeo a seguir traz uma apresentação do problema que a equipe está tratand
 
 Esta seção apresenta as funcionalidades da solução.Info
 
-##### Funcionalidade 1 - Cadastro de Contatos ⚠️ EXEMPLO ⚠️
-
-Permite a inclusão, leitura, alteração e exclusão de contatos para o sistema
-
-* **Estrutura de dados:** [Contatos](#ti_ed_contatos)
-* **Instruções de acesso:**
-  * Abra o site e efetue o login
-  * Acesse o menu principal e escolha a opção Cadastros
-  * Em seguida, escolha a opção Contatos
-* **Tela da funcionalidade**:
-
-![Tela de Funcionalidade](images/exemplo-funcionalidade.png)
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Apresente cada uma das funcionalidades que a aplicação fornece tanto para os usuários quanto aos administradores da solução.
->
-> Inclua, para cada funcionalidade, itens como: (1) titulos e descrição da funcionalidade; (2) Estrutura de dados associada; (3) o detalhe sobre as instruções de acesso e uso.
-
-## Estruturas de Dados
-
-Descrição das estruturas de dados utilizadas na solução com exemplos no formato JSON.Info
-
-##### Estrutura de Dados - Contatos   ⚠️ EXEMPLO ⚠️
-
-Contatos da aplicação
-
-```json
-  {
-    "id": 1,
-    "nome": "Leanne Graham",
-    "cidade": "Belo Horizonte",
-    "categoria": "amigos",
-    "email": "Sincere@april.biz",
-    "telefone": "1-770-736-8031",
-    "website": "hildegard.org"
-  }
-  
-```
-
-##### Estrutura de Dados - Usuários  ⚠️ EXEMPLO ⚠️
+##### Estrutura de Dados - Usuários 
 
 Registro dos usuários do sistema utilizados para login e para o perfil do sistema
 
 ```json
   {
-    id: "eed55b91-45be-4f2c-81bc-7686135503f9",
-    email: "admin@abc.com",
-    id: "eed55b91-45be-4f2c-81bc-7686135503f9",
-    login: "admin",
-    nome: "Administrador do Sistema",
-    senha: "123"
+    {
+  "usuarios": [
+    {
+      "id": "1",
+      "login": "admin",
+      "senha": "123",
+      "nome": "Administrador do Sistema",
+      "email": "admin@abc.com",
+      "isAdmin": true
+    },
+    {
+      "id": "2",
+      "login": "user",
+      "senha": "123",
+      "nome": "Usuario Comum",
+      "email": "user@abc.com"
+    },
   }
 ```
+##### Estrutura de Dados - Modelo Carro
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Apresente as estruturas de dados utilizadas na solução tanto para dados utilizados na essência da aplicação quanto outras estruturas que foram criadas para algum tipo de configuração
->
-> Nomeie a estrutura, coloque uma descrição sucinta e apresente um exemplo em formato JSON.
->
-> **Orientações:**
->
-> * [JSON Introduction](https://www.w3schools.com/js/js_json_intro.asp)
-> * [Trabalhando com JSON - Aprendendo desenvolvimento web | MDN](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/JSON)
+```json
+"carro": [
+    {
+      "id": "1",
+      "imagem": "/codigo/public/assets/images/BYD_DOLPHIN.jpg",
+      "marca": "BYD",
+      "modelo": "DOLPHIN",
+      "ano": "2022",
+      "autonomia": "330 KM's",
+      "preco": "R$ 149.800"
+    },
+```
+##### Estrutura de Dados - Comparador com Eletrico e Combustão
+
+```json
+ "electric_cars": [
+        {
+            "id": "b08b046c-743f-4e26-b833-c3b9a5d7a731",
+            "type": "Electric",
+            "model": "Tesla Model 3",
+            "year": 2024,
+            "range_km": 550,
+            "acceleration_0_100_kmh": 3.3,
+            "torque_nm": 660,
+            "displacement": null,
+            "engine_type": "Electric motor",
+            "image_url": "https://www.motortrend.com/uploads/2023/10/LEAD-144-2024-Tesla-Model-3-RWD-Short-Range-front-three-quarter-view.jpg"
+        },
+
+{
+            "id": "5412dc4b-7e98-4fa0-812e-74920cf3a1ab",
+            "type": "Combustion",
+            "model": "Ford Mustang GT",
+            "year": 2024,
+            "range_km": 600,
+            "acceleration_0_100_kmh": 4.3,
+            "torque_nm": 529,
+            "displacement": 5000,
+            "engine_type": "V8",
+            "image_url": "https://cdn.motor1.com/images/mgl/mMPmzP/s1/2024-ford-mustang-gt-exterior-front-quarter.webp"
+        },
+```
+##### Estrutura de Dados - FAQ
+
+```json
+{
+    "faq": [
+        {
+            "id": "1e89e3d9-c42a-4c76-a1f2-6f58bcbf7fd2",
+            "question": "Quanto tempo leva para carregar um carro elétrico ?",
+            "answer": "O tempo de carregamento depende do tipo de carregador usado. Com uma tomada residencial padrão, pode levar de 8 a 12 horas, enquanto carregadores rápidos podem reduzir o tempo para 30-60 minutos para uma carga de 80%."
+        },
+```
 
 ## Módulos e APIs
 

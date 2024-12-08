@@ -8,7 +8,7 @@ Informações básicas do projeto.
 
   * [Matheus Mendes Ramos](https://github.com/Matheus-026)
   * [Lara Freitas Melo](https://github.com/larafmmelo)
-  * [Thiago]
+  * [Thiago Henrique Figueredo de Oliveira](https://github.com/Thiago-hf)
 
 A documentação do projeto é estruturada da seguinte forma:
 

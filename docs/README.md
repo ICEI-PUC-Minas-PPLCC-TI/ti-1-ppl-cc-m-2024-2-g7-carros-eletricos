@@ -346,24 +346,10 @@ Registro dos usuários do sistema utilizados para login e para o perfil do siste
 
 ## Módulos e APIs
 
-Esta seção apresenta os módulos e APIs utilizados na solução
-
-**Images**:
-
-* Unsplash - [https://unsplash.com/](https://unsplash.com/) ⚠️ EXEMPLO ⚠️
-
-**Fonts:**
-
-* Icons Font Face - [https://fontawesome.com/](https://fontawesome.com/) ⚠️ EXEMPLO ⚠️
-
 **Scripts:**
 
 * JavaScript
 * Bootstrap 4 - [http://getbootstrap.com/](http://getbootstrap.com/)
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Apresente os módulos e APIs utilizados no desenvolvimento da solução. Inclua itens como: (1) Frameworks, bibliotecas, módulos, etc. utilizados no desenvolvimento da solução; (2) APIs utilizadas para acesso a dados, serviços, etc.
 
 # Referências
 

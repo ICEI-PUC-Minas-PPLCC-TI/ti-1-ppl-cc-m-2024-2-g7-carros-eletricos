@@ -2,7 +2,7 @@
 
 Informações básicas do projeto.
 
-* **Projeto:** 
+* **Projeto:** EcoDrive
 * **Repositório GitHub:** [Repositório GitHub](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-2024-2-g7-carros-eletricos)
 * **Membros da equipe:**
 
@@ -262,6 +262,19 @@ O vídeo a seguir traz uma apresentação do problema que a equipe está tratand
 ## Funcionalidades
 
 Esta seção apresenta as funcionalidades da solução.Info
+
+>Funcionalidade 1 - Cadastro de Contatos
+Permite a entrada de usuarios e a criação de novos usuarios
+
+Estrutura de dados: Login
+Instruções de acesso:
+Abra o site e efetue o login
+Se caso não ouver cadastro, clicar em cadastro.
+
+Tela da funcionalidade:
+
+![Login](https://github.com/user-attachments/assets/cff03bb7-69f9-4b5d-a99b-55bebc8ca538)
+
 
 ##### Estrutura de Dados - Usuários 
 

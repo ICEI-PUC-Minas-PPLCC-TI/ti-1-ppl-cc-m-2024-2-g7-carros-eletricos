@@ -263,56 +263,56 @@ O vídeo a seguir traz uma apresentação do problema que a equipe está tratand
 
 Esta seção apresenta as funcionalidades da solução.Info
 
->Funcionalidade 1 - Cadastro de Login e Cadastro
+# Funcionalidade 1 - Cadastro de Login e Cadastro
 Permite a entrada de usuarios e a criação de novos usuarios.
 
 Estrutura de dados: Login
 -Instruções de acesso:
 
-Abra o site e efetue o login
+>Abra o site e efetue o login
 
-Se caso não ouver cadastro, clicar em cadastro.
+>Se caso não ouver cadastro, clicar em cadastro.
 
-Tela da funcionalidade:
+>Tela da funcionalidade:
 
 ![Login](https://github.com/user-attachments/assets/cff03bb7-69f9-4b5d-a99b-55bebc8ca538)
 
->Funcionalidade 2 - Informações
-Permite que os usuarios veja as informações sobre carros elétricos.
+# Funcionalidade 2 - Informações
+>Permite que os usuarios veja as informações sobre carros elétricos.
 
 ![Informações](https://github.com/user-attachments/assets/e2a6d1e0-09bc-4e29-b5a4-682ee6337149)
 
->Funcionalidade 3 - Ranking de Carros
-Permite que os usuarios adicione carros elétricos para melhor ranqueamentos deles.
+# Funcionalidade 3 - Ranking de Carros
+>Permite que os usuarios adicione carros elétricos para melhor ranqueamentos deles.
 
 Estrutura de dados: Dados de veiculos
 -Instruções de acesso:
 
-Adicione URL da imagem do carro.
+>Adicione URL da imagem do carro.
 
-Adicione a marca do carro.
+>Adicione a marca do carro.
 
-Adicione o modelo do carro.
+>Adicione o modelo do carro.
 
-Adicione o ano.
+>Adicione o ano.
 
-Adicione a autonomia.
+>Adicione a autonomia.
 
-Adicione o preço.
+>Adicione o preço.
 
-Logo após clique em adicionar carro.
+>Logo após clique em adicionar carro.
 
 ![Ranking](https://github.com/user-attachments/assets/874e9df7-9a42-4c6f-bb35-db8caf3fe9f1)
 
 
->Funcionalidade 4 - Modelos
-Mostrar os modelos mais populares de carros elétrico para o usuario, constando seu preço e autonomia.
+# Funcionalidade 4 - Modelos
+>Mostrar os modelos mais populares de carros elétrico para o usuario, constando seu preço e autonomia.
 
 
 ![Modelos](https://github.com/user-attachments/assets/dbc3011c-a722-4ccd-a077-18dad90c5afa)
 
->Funcionalidade 5 - Modelos
-Mostrar ao usuario a diferença entre um carro elétrico e um carro a combustão e seus respectivos dados.
+# Funcionalidade 5 - Modelos
+>Mostrar ao usuario a diferença entre um carro elétrico e um carro a combustão e seus respectivos dados.
 
 ![Comparador](https://github.com/user-attachments/assets/791e6633-4fce-43d7-a5c7-1a98b6118240)
 

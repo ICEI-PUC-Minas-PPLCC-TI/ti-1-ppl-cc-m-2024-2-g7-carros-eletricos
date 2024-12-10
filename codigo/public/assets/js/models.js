@@ -62,7 +62,7 @@ fetch('/db/db.json')
         } else if (ano === '2020-2023') {
             filtroAno = carro.ano >= 2020 && carro.ano <= 2023; // Intervalo entre 2020 e 2023
         } else if (ano === '2024') {
-            filtroAno = carro.ano === 2024; // Ano exato 2024
+            filtroAno = carro.ano == 2024; // Ano exato 2024
         } else if (ano === '') {
             filtroAno = true; // Se não houver filtro de ano
         }

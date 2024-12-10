@@ -252,7 +252,7 @@ Esta seção apresenta todos os detalhes da solução criada no projeto.
 O vídeo a seguir traz uma apresentação do problema que a equipe está tratando e a proposta de solução.
 
 
-![video](https://github.com/user-attachments/assets/4bf2ac76-484f-4aef-98ba-774daca14d43)
+![Video sobre o site](https://github.com/user-attachments/assets/4bf2ac76-484f-4aef-98ba-774daca14d43)
 
 ## Funcionalidades
 

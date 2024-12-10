@@ -1,6 +1,4 @@
-/* style.css */
 
-/* Reset básico */
 * {
     margin: 0;
     padding: 0;
@@ -50,19 +48,46 @@ header {
 }
 
 .card img {
-    height: 150px;
+    height: 200px;
     object-fit: cover;
 }
 
 footer {
-    background-color: #007bff;
+    background-color: #333;
     color: #fff;
-    padding: 10px 0;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
 }
 
 footer p {
     margin: 0;
+}
+
+.about-us, .popular-models, .comparisons, .contact {
+    padding: 2rem 0;
+}
+
+.about-us h2, .popular-models h2, .comparisons h2, .contact h2 {
+    margin-bottom: 1rem;
+}
+
+.about-us p, .comparisons p, .contact p {
+    margin-bottom: 1.5rem;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
 }

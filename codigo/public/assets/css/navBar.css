@@ -14,9 +14,16 @@ body {
 
 /* Navbar estilizada */
 .navbar {
+    display: flex;
     padding: 10px 20px;
     background-color: #ffffff;
     border-bottom: 1px solid #e5e5e5;
+    flex-direction: column;
+}
+
+.logoimg {
+    width: 70px;
+    height: auto;
 }
 
 .navbar img {
@@ -153,4 +160,12 @@ body {
 
 .cards .delete-btn:hover {
     background-color: #c82333;
+}
+
+#card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
 }
